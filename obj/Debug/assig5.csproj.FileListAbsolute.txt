@@ -1,0 +1,8 @@
+D:\day-4\assig5\assig5\bin\Debug\assig5.exe.config
+D:\day-4\assig5\assig5\bin\Debug\assig5.exe
+D:\day-4\assig5\assig5\bin\Debug\assig5.pdb
+D:\day-4\assig5\assig5\obj\Debug\assig5.csproj.AssemblyReference.cache
+D:\day-4\assig5\assig5\obj\Debug\assig5.csproj.SuggestedBindingRedirects.cache
+D:\day-4\assig5\assig5\obj\Debug\assig5.csproj.CoreCompileInputs.cache
+D:\day-4\assig5\assig5\obj\Debug\assig5.exe
+D:\day-4\assig5\assig5\obj\Debug\assig5.pdb
